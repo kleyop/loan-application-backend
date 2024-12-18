@@ -1,6 +1,4 @@
 # Visual Studio files
 .vs/
-*.sln
 obj/
-bin/
-*.vsidx
+*.sln
